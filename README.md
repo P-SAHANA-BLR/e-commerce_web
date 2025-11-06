@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Website (Frontend + MongoDB Integration)
+# 🛒 E-Commerce Website 
 
 This is a simple and elegant **E-Commerce Web Application** built using **HTML, CSS, JavaScript**, and **MongoDB** (via Node.js backend).  
 It allows users to browse products, view details, and place orders that are stored in MongoDB.  
