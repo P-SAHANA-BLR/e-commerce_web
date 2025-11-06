@@ -49,20 +49,6 @@ ecommerce-project/
 ├── package.json
 └── README.md
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/ecommerce-project.git
-cd ecommerce-project
-2️⃣ Install Dependencies
-npm install
-3️⃣ Connect to MongoDB
-Update your server.js or .env file with your MongoDB connection string:
-MONGO_URI = "your-mongodb-connection-string"
-4️⃣ Run the Server
-node server.js
-5️⃣ Open in Browser
-Go to:
-👉 http://localhost:3000
 
 🧩 Future Enhancements
 User authentication (login/signup)
