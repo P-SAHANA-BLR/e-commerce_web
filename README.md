@@ -2,10 +2,8 @@
 
 This is a simple and elegant **E-Commerce Web Application** built using **HTML, CSS, JavaScript**, and **MongoDB** (via Node.js backend).  
 It allows users to browse products, view details, and place orders that are stored in MongoDB.  
-The admin panel can manage (Add/Edit/Delete) products and view customer orders.
 
 ## 🚀 Features
-
 ### 🧍‍♂️ User Side
 - View all products in a grid format.
 - Click on any product to see detailed information.
@@ -16,15 +14,6 @@ The admin panel can manage (Add/Edit/Delete) products and view customer orders.
 - Add, Edit, and Delete products using MongoDB.
 - View all orders placed by users.
 - Simple dashboard view for product and order management.
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|:------|:------------|
-| **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB |
-| **Version Control** | Git & GitHub |
 
 ## 📂 Folder Structure
 
